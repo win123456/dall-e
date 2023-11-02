@@ -10,6 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=15"
+  },
   "dependencies": {
     "cloudinary": "^1.41.0",
     "cors": "^2.8.5",
